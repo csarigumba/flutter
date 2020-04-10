@@ -1,6 +1,6 @@
 # ui_flutter_menu_options
 
-A new Flutter project.
+![Alt text](screenshot.png?raw=true "Menu options")
 
 ## Getting Started
 
